@@ -1,2 +1,1 @@
-# translator-idk..
-this drives me nuts
+# translator building
